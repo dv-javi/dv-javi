@@ -35,10 +35,3 @@ I’m a Full Stack Developer student, passionate
 <a href="https://www.linkedin.com/in/javier-prado-06891a359/">
    <img width= 30px src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-<h2>Github stats</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=dv-javi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/dv-javi)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=dv-javi&theme=material-palenight)](https://github.com/dv-javi)
-</div>
-
